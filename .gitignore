@@ -1,0 +1,12 @@
+.DS_Store
+*.webloc
+.env
+.env.*
+!.env.example
+node_modules/
+.vercel/
+docs/plano-ensino-v0.4.md
+docs/aula-0-preparacao.md
+kits-laboratorio/*
+!kits-laboratorio/README.md
+lib/aulas.json
